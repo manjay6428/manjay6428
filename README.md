@@ -1,4 +1,4 @@
-[![MasterHead](https://media.licdn.com/dms/image/D4D16AQG-NRYTgAbRng/profile-displaybackgroundimage-shrink_350_1400/0/1669886885417?e=1677715200&v=beta&t=hk3RHyWf2PTFBXY3KKFHx3WZB47MrKv8vQXYftVP-cw)]
+
 <h1 align="center">Hi 👋, I'm Manjay Kumar</h1>
 <h3 align="center">A passionate MERN Stack developer from India</h3>
 <img  align="right" alt ="Coding" width="400" src ="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
