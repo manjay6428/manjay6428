@@ -1,10 +1,10 @@
 
 <h1 align="center">Hi 👋, I'm Manjay Kumar</h1>
-<h3 align="center">A passionate Frontend developer from India</h3>
+<h3 align="center">A passionate MERN Stack developer from India</h3>
 <img  align="right" alt ="Coding" width="400" src ="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manjay6428&label=Profile%20views&color=0e75b6&style=flat" alt="manjay6428" /> </p>
 
-<p align="left"> <a href="https://twitter.com/manjayk10662818" target="blank"><img src="https://img.shields.io/twitter/follow/manjayk10662818?logo=twitter&style=for-the-badge" alt="manjayk10662818" /></a> </p>
+<p align="left"> <a href="https://www.linkedin.com/in/manjay-kumar-922686203/" target="blank"><img src="https://img.shields.io/twitter/follow/manjayk10662818?logo=twitter&style=for-the-badge" alt="manjayk10662818" /></a> </p>
 
 - 🔭 I’m currently working on ccmr3 project at Byteridge
 
@@ -16,7 +16,7 @@
 
 - 📫 How to reach me **manjay6428@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1FiOWaH8zK91OUqB_qMd4MIeg8ISlUXyB/view?usp=share_link](https://drive.google.com/file/d/1FiOWaH8zK91OUqB_qMd4MIeg8ISlUXyB/view?usp=share_link)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1AP3Z8dh8Y5OXbFoJYU-ODGAxBlZWkvCn/view](https://drive.google.com/file/d/1AP3Z8dh8Y5OXbFoJYU-ODGAxBlZWkvCn/view)
 
 - ⚡ Fun fact **I Think I am funny and easily-connecting .**
 
