@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **NodeJs**
 
-- 👨‍💻 All of my projects are available at [https://manjayportfolio.netlify.app/](https://manjayportfolio.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://manjaycodes.netlify.app//)
 
 - 💬 Ask me about **Javascript, ReactJS and Data Structures and Algorithms.**
 
